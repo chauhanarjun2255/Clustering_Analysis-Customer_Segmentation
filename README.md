@@ -61,6 +61,8 @@ Visual Outputs
 
 How to Run the Project
 
-1.Ensure Python is installed
-2.Install required libraries: pip install pandas numpy matplotlib seaborn scikit-learn
-3.Place sales_data.csv in the project directory 4.Open and run the Jupyter Notebook step-by-step
+1. Ensure Python is installed
+2. Install required libraries: pip install pandas numpy matplotlib seaborn scikit-learn
+3. Place sales_data.csv in the project directory 
+4. Open and run the Jupyter Notebook step-by-step
+
